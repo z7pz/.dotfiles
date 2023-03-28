@@ -1,6 +1,7 @@
 alias projects='cd ~/Documents/projects'
 # alias reload='omz reload' # source ~/.zshrc
 alias zshc='code ~/.oh-my-zsh/custom'
+alias dpush="git push --set-upstream origin master"
 
 # reload the current command instance
 reload() {
